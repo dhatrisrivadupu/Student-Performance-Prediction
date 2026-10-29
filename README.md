@@ -31,4 +31,4 @@ This repository contains an end-to-end Machine Learning project that predicts st
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/dhatrisrivadupu/Student-Performance-Prediction.git](https://github.com/dhatrisrivadupu/Student-Performance-Prediction.git)
+git clone [https://github.com/dhatrisrivadupu/Student-Performance-Prediction.git](https://github.com/dhatrisrivadupu/Student-Performance-Prediction.git)
